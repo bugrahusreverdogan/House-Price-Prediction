@@ -1,0 +1,541 @@
+,Price,Neighborhood,Nearest Stop,Nearest School,update Month,Gross Square Meters,Net Square Meter,Age of Building,The Number of Floors of the Building,Using status,Item Status,Number of bathrooms,Number of rooms,Floor location,Heating Type,Inside the Site
+0,3750000,guzelyurt,128.0,111.1,Ocak,165,155,2,7,Boş,Boş,2,4,1,Kombi Doğalgaz,Evet
+1,1500000,guzelyurt,194.4,171.3,Ocak,65,60,5,10,Kiracı Oturuyor,Eşyalı,1,2,10,Kombi Doğalgaz,Evet
+2,2950000,guzelyurt,101.3,451.3,Ocak,155,130,11,6,Boş,Boş,2,4,4,Kombi Doğalgaz,Hayır
+3,2750000,guzelyurt,79.2,278.9,Ocak,145,140,5,7,Kiracı Oturuyor,Eşya Durumu,1,4,3,Kombi Doğalgaz,Hayır
+4,5750000,guzelyurt,198.1,151.7,Ocak,220,210,5,9,Kiracı Oturuyor,Boş,2,5,3,Kombi Doğalgaz,Hayır
+5,3800000,guzelyurt,64.7,267.7,Ocak,190,170,5,8,Boş,Boş,1,4,2,Kombi Doğalgaz,Evet
+6,6600000,guzelyurt,54.3,94.4,Ocak,220,200,5,5,Boş,Eşya Durumu,2,5,3,Kombi Doğalgaz,Hayır
+7,2750000,guzelyurt,155.8,208.6,Ocak,135,125,5,7,Boş,Boş,1,4,3,Kombi Doğalgaz,Evet
+8,2750000,guzelyurt,94.9,70.5,Ocak,140,135,11,7,Kiracı Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Evet
+9,3900000,guzelyurt,123.6,256.3,Ocak,190,180,16,6,Kiracı Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Hayır
+10,2300000,guzelyurt,108.7,423.6,Ocak,130,120,5,7,Mülk Sahibi Oturuyor,Eşya Durumu,1,4,2,Kombi Doğalgaz,Evet
+11,1750000,guzelyurt,71.6,105.4,Ocak,135,120,11,6,Kiracı Oturuyor,Boş,1,4,2,Kombi Doğalgaz,Hayır
+12,2300000,guzelyurt,186.4,159.7,Aralık,130,120,5,7,Kiracı Oturuyor,Boş,1,4,1,Kombi Doğalgaz,Evet
+13,3750000,guzelyurt,274.7,87.9,Aralık,154,135,4,6,Mülk Sahibi Oturuyor,Boş,1,4,2,Kombi Doğalgaz,Hayır
+14,1379000,guzelyurt,55.4,86.1,Ocak,105,95,16,6,Kiracı Oturuyor,Boş,1,3,6,Kombi Doğalgaz,Hayır
+15,5850000,guzelyurt,297.1,355.3,Aralık,220,200,5,7,Boş,Eşya Durumu,2,5,4,Kombi Doğalgaz,Evet
+16,2700000,guzelyurt,167.0,230.6,Aralık,160,150,5,11,Boş,Boş,2,4,6,Kombi Doğalgaz,Hayır
+17,4200000,guzelyurt,19.8,381.0,Aralık,166,146,0,11,Boş,Boş,2,4,10,Kombi Doğalgaz,Hayır
+18,1750000,guzelyurt,61.8,91.1,Aralık,75,70,4,14,Kiracı Oturuyor,Eşyalı,1,2,6,Kombi Doğalgaz,Hayır
+19,3850000,guzelyurt,77.4,233.0,Aralık,180,160,5,6,Mülk Sahibi Oturuyor,Boş,2,4,6,Kombi Doğalgaz,Hayır
+20,4450000,guzelyurt,127.9,169.0,Aralık,200,180,5,10,Kiracı Oturuyor,Boş,2,4,7,Kombi Doğalgaz,Hayır
+21,1810000,guzelyurt,180.1,380.8,Aralık,130,120,11,5,Kiracı Oturuyor,Boş,1,4,4,Kombi Doğalgaz,Hayır
+22,1725000,guzelyurt,61.5,99.3,Aralık,135,120,11,7,Kiracı Oturuyor,Boş,1,4,5,Kombi Doğalgaz,Hayır
+23,1550000,guzelyurt,104.0,141.2,Aralık,60,50,4,14,Kiracı Oturuyor,Eşyalı,1,2,5,Kombi Doğalgaz,Hayır
+24,3400000,guzelyurt,234.9,263.8,Aralık,208,185,5,6,Boş,Boş,2,4,1,Kombi Doğalgaz,Hayır
+25,2450000,guzelyurt,168.2,375.4,Aralık,140,125,5,10,Boş,Boş,1,4,10,Kombi Doğalgaz,Hayır
+26,2250000,guzelyurt,51.2,430.7,Aralık,95,83,5,7,Kiracı Oturuyor,Boş,1,3,1,Kombi Doğalgaz,Evet
+27,1500000,guzelyurt,171.3,401.9,Ocak,65,60,5,10,Kiracı Oturuyor,Eşyalı,1,2,10,Kombi Doğalgaz,Hayır
+28,2350000,guzelyurt,178.3,172.9,Aralık,145,135,5,11,Boş,Boş,2,4,11,Kombi Doğalgaz,Hayır
+29,1850000,guzelyurt,106.4,80.0,Aralık,110,100,4,11,Boş,Boş,1,4,6,Kombi Doğalgaz,Hayır
+30,2550000,guzelyurt,50.5,67.0,Ocak,145,130,4,11,Kiracı Oturuyor,Eşya Durumu,1,4,7,Kombi Doğalgaz,Hayır
+31,4200000,guzelyurt,80.7,122.9,Kasım,180,160,4,10,Kiracı Oturuyor,Boş,2,4,7,Kombi Doğalgaz,Evet
+32,3500000,guzelyurt,95.1,58.6,Aralık,160,145,5,8,Kiracı Oturuyor,Boş,2,4,2,Merkezi Doğalgaz,Evet
+33,1810000,guzelyurt,131.3,99.1,Kasım,145,120,11,5,Mülk Sahibi Oturuyor,Boş,1,4,4,Kombi Doğalgaz,Hayır
+34,1650000,guzelyurt,325.8,106.6,Kasım,120,110,5,5,Mülk Sahibi Oturuyor,Boş,1,4,4,Kombi Doğalgaz,Hayır
+35,1535000,guzelyurt,131.6,311.0,Kasım,60,50,4,14,Kiracı Oturuyor,Eşyalı,1,2,5,Kombi Doğalgaz,Hayır
+36,1050000,guzelyurt,139.8,128.3,Aralık,65,55,5,8,Kiracı Oturuyor,Eşyalı,1,2,1,Kombi Doğalgaz,Hayır
+37,1495000,guzelyurt,294.0,164.7,Kasım,120,110,11,5,Kiracı Oturuyor,Boş,1,4,5,Kombi Doğalgaz,Hayır
+38,1535000,guzelyurt,60.4,286.8,Aralık,65,60,4,11,Boş,Eşyalı,1,2,5,Kombi Doğalgaz,Hayır
+39,1750000,guzelyurt,62.8,95.2,Aralık,130,115,11,8,Kiracı Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Evet
+40,7500000,guzelyurt,276.5,197.9,Kasım,250,220,16,3,Mülk Sahibi Oturuyor,Boş,1,5,1,Kombi Doğalgaz,Hayır
+41,1350000,guzelyurt,43.9,263.9,Aralık,105,90,16,8,Kiracı Oturuyor,Eşya Durumu,1,3,4,Kombi Doğalgaz,Hayır
+42,2000000,guzelyurt,81.4,215.1,Ekim,135,125,11,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Evet
+43,4395000,guzelyurt,156.4,310.8,Ekim,205,175,5,9,Boş,Boş,2,5,6,Kombi Doğalgaz,Hayır
+44,4400000,guzelyurt,57.6,70.5,Ekim,190,170,4,9,Boş,Boş,2,5,6,Kombi Doğalgaz,Hayır
+45,2375000,guzelyurt,18.9,130.4,Ekim,100,90,5,6,Mülk Sahibi Oturuyor,Boş,2,3,3,Kombi Doğalgaz,Hayır
+46,3100000,guzelyurt,272.6,271.8,Ekim,205,160,5,5,Kiracı Oturuyor,Boş,1,5,1,Kombi Doğalgaz,Hayır
+47,950000,guzelyurt,378.9,354.5,Ekim,55,50,4,11,Boş,Eşyalı,1,2,11,Kombi Doğalgaz,Hayır
+48,3100000,guzelyurt,120.9,114.2,Ekim,150,128,1,8,Mülk Sahibi Oturuyor,Boş,2,4,1,Yerden Isıtma,Hayır
+49,1680000,guzelyurt,69.6,68.9,Ekim,110,100,5,11,Mülk Sahibi Oturuyor,Boş,1,3,6,Kombi Doğalgaz,Hayır
+50,2550000,guzelyurt,163.8,340.0,Ekim,165,135,4,11,Boş,Boş,2,4,8,Merkezi (Pay Ölçer),Hayır
+51,2350000,guzelyurt,115.5,202.7,Ekim,160,145,5,11,Boş,Boş,2,4,11,Kombi Doğalgaz,Hayır
+52,785000,guzelyurt,104.2,308.8,Ekim,98,88,16,4,Mülk Sahibi Oturuyor,Boş,1,3,4,Klimalı,Hayır
+53,4150000,guzelyurt,195.2,185.4,Kasım,205,190,5,9,Boş,Boş,2,5,9,Kombi Doğalgaz,Hayır
+54,4630000,guzelyurt,109.4,133.8,Kasım,250,180,5,3,Mülk Sahibi Oturuyor,Boş,3,7,0,Kombi Doğalgaz,Evet
+55,2375000,guzelyurt,170.7,348.9,Aralık,105,100,5,7,Mülk Sahibi Oturuyor,Eşya Durumu,2,3,3,Kombi Doğalgaz,Evet
+56,1390000,guzelyurt,79.0,169.6,Aralık,70,60,4,11,Kiracı Oturuyor,Eşya Durumu,1,2,3,Kombi Doğalgaz,Evet
+57,2745000,guzelyurt,23.2,123.5,Aralık,160,150,5,11,Boş,Boş,2,4,1,Kombi Doğalgaz,Hayır
+58,4100000,guzelyurt,152.1,150.2,Aralık,180,160,4,7,Mülk Sahibi Oturuyor,Boş,2,4,1,Kombi Doğalgaz,Hayır
+59,2250000,guzelyurt,157.0,344.9,Aralık,95,90,5,7,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+60,950000,guzelyurt,104.4,274.5,Eylül,65,50,4,6,Kiracı Oturuyor,Eşyalı,1,2,1,Kombi Doğalgaz,Hayır
+61,3150000,guzelyurt,79.3,339.4,Aralık,250,180,21,20,Boş,Boş,2,5,0,Kombi Doğalgaz,Evet
+62,1300000,guzelyurt,68.8,207.7,Kasım,95,90,11,6,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,4,Kombi Doğalgaz,Evet
+63,4300000,guzelyurt,122.1,267.7,Kasım,300,240,16,3,Mülk Sahibi Oturuyor,Boş,1,6,1,Kombi Doğalgaz,Hayır
+64,4375000,guzelyurt,122.9,137.8,Aralık,196,174,5,9,Mülk Sahibi Oturuyor,Boş,2,5,1,Yerden Isıtma,Hayır
+65,1150000,guzelyurt,68.5,77.4,Ekim,130,120,0,5,Mülk Sahibi Oturuyor,Boş,2,4,2,Kombi Doğalgaz,Hayır
+66,1750000,guzelyurt,69.0,304.4,Aralık,145,140,11,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,4,2,Isıtma Yok,Hayır
+67,1050000,guzelyurt,91.7,424.9,Aralık,60,50,5,6,Mülk Sahibi Oturuyor,Eşyalı,1,2,1,Kombi Doğalgaz,Hayır
+68,1365000,guzelyurt,137.0,274.1,Kasım,75,70,5,11,Mülk Sahibi Oturuyor,Eşyalı,1,2,6,Kombi Doğalgaz,Hayır
+69,3150000,guzelyurt,114.4,143.2,Aralık,167,55,5,7,Boş,Boş,2,4,2,Kombi Doğalgaz,Hayır
+70,3150000,guzelyurt,111.9,154.5,Aralık,350,300,16,3,Boş,Boş,2,6,0,Kombi Doğalgaz,Hayır
+71,3150000,uncubozkoy,93.9,312.4,Ocak,45,38,0,15,Boş,Boş,1,2,11,Kombi Doğalgaz,Hayır
+72,4150000,uncubozkoy,174.6,185.2,Ocak,300,230,11,5,Kiracı Oturuyor,Boş,1,5,0,Kombi Doğalgaz,Hayır
+73,3150000,uncubozkoy,237.7,179.9,Ocak,45,38,0,15,Boş,Boş,1,2,11,Kombi Doğalgaz,Evet
+74,2150000,uncubozkoy,188.3,213.5,Ocak,110,100,5,5,Boş,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+75,2150000,uncubozkoy,197.0,166.9,Ocak,120,110,5,5,Kiracı Oturuyor,Boş,1,3,4,Kombi Doğalgaz,Hayır
+76,3250000,uncubozkoy,208.4,180.3,Ocak,260,250,16,5,Boş,Boş,1,6,-2,Kombi Doğalgaz,Hayır
+77,2400000,uncubozkoy,118.0,164.4,Aralık,145,135,11,5,Kiracı Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Hayır
+78,1125000,uncubozkoy,199.2,143.8,Aralık,90,80,21,4,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+79,2950000,uncubozkoy,152.2,78.0,Aralık,250,240,11,5,Kiracı Oturuyor,Boş,2,6,1,Kombi Doğalgaz,Hayır
+80,1200000,uncubozkoy,93.0,149.9,Aralık,130,120,16,5,Kiracı Oturuyor,Boş,1,4,5,Kombi Doğalgaz,Hayır
+81,2850000,uncubozkoy,12.9,66.8,Aralık,155,140,5,4,Mülk Sahibi Oturuyor,Boş,1,4,4,Kombi Doğalgaz,Hayır
+82,2600000,uncubozkoy,124.2,153.6,Aralık,160,150,16,5,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+83,3200000,uncubozkoy,57.4,138.6,Aralık,360,310,11,5,Boş,Boş,1,6,4,Kombi Doğalgaz,Hayır
+84,1990000,uncubozkoy,90.3,145.6,Aralık,130,120,16,4,Mülk Sahibi Oturuyor,Boş,1,4,2,Kombi Doğalgaz,Hayır
+85,1230000,uncubozkoy,105.3,76.5,Ocak,130,110,16,5,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+86,1700000,uncubozkoy,219.7,290.7,Aralık,350,300,5,5,Boş,Boş,3,7,1,Kombi Doğalgaz,Hayır
+87,1350000,uncubozkoy,54.0,128.1,Kasım,95,90,16,5,Boş,Boş,1,3,5,Kombi Doğalgaz,Hayır
+88,1750000,uncubozkoy,15.2,56.6,Kasım,146,118,16,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+89,1630000,uncubozkoy,259.9,268.5,Kasım,140,130,16,5,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+90,2100000,uncubozkoy,217.5,317.6,Kasım,120,100,4,5,Mülk Sahibi Oturuyor,Boş,1,3,5,Merkezi (Pay Ölçer),Hayır
+91,2125000,uncubozkoy,119.1,242.3,Aralık,170,160,11,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+92,1450000,uncubozkoy,132.8,177.0,Aralık,125,110,21,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,4,Kombi Doğalgaz,Hayır
+93,1750000,uncubozkoy,38.1,16.2,Aralık,135,130,16,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+94,1199000,uncubozkoy,146.0,78.6,Aralık,131,106,16,4,Kiracı Oturuyor,Boş,1,4,4,Kombi Doğalgaz,Hayır
+95,1550000,uncubozkoy,183.3,123.9,Aralık,145,135,21,5,Kiracı Oturuyor,Eşya Durumu,1,4,3,Kombi Doğalgaz,Hayır
+96,2600000,uncubozkoy,80.4,127.9,Ekim,300,280,16,3,Mülk Sahibi Oturuyor,Boş,2,6,3,Kombi Doğalgaz,Hayır
+97,1850000,uncubozkoy,177.7,290.7,Kasım,90,80,5,9,Kiracı Oturuyor,Eşyalı,1,3,1,Merkezi Doğalgaz,Hayır
+98,1650000,uncubozkoy,314.2,251.5,Aralık,140,130,16,5,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+99,1290000,uncubozkoy,65.0,23.7,Aralık,90,85,16,5,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+100,1750000,uncubozkoy,47.1,255.0,Aralık,105,90,21,4,Kiracı Oturuyor,Eşya Durumu,1,3,0,Kombi Doğalgaz,Hayır
+101,1875000,uncubozkoy,141.2,164.6,Ocak,120,95,21,3,Boş,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+102,1875000,uncubozkoy,138.1,179.7,Ocak,155,140,11,5,Mülk Sahibi Oturuyor,Boş,1,4,1,Kombi Doğalgaz,Hayır
+103,1580000,uncubozkoy,118.7,111.3,Ocak,95,76,11,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+104,2500000,uncubozkoy,114.8,114.4,Kasım,220,176,11,3,Mülk Sahibi Oturuyor,Boş,2,5,3,Kombi Doğalgaz,Hayır
+105,4650000,uncubozkoy,37.4,156.1,Ekim,280,250,5,4,Mülk Sahibi Oturuyor,Boş,2,6,4,Kombi Doğalgaz,Hayır
+106,1375000,muradiye,182.4,392.5,Ocak,165,145,5,5,Mülk Sahibi Oturuyor,Eşya Durumu,2,4,3,Kombi Doğalgaz,Hayır
+107,950000,muradiye,81.8,453.2,Ocak,90,80,2,5,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+108,1275000,muradiye,204.9,483.2,Ocak,90,83,0,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+109,955000,muradiye,54.1,200.2,Aralık,115,100,5,5,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+110,1050000,muradiye,2.0,1.4,Ocak,85,80,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+111,1350000,muradiye,148.6,496.2,Kasım,130,115,5,5,Kiracı Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Hayır
+112,1350000,muradiye,200.7,496.3,Ocak,125,110,1,4,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+113,2750000,muradiye,96.5,166.1,Ocak,110,97,4,3,Boş,Boş,2,3,3,Kombi Doğalgaz,Evet
+114,810000,muradiye,89.8,331.7,Ocak,75,70,5,5,Kiracı Oturuyor,Boş,1,2,1,Kombi Doğalgaz,Hayır
+115,1375000,muradiye,90.7,333.0,Ocak,240,210,4,4,Boş,Boş,2,5,4,Kombi Doğalgaz,Hayır
+116,1125000,muradiye,122.7,521.4,Ocak,145,135,5,5,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+117,3100000,muradiye,690.4,615.3,Ocak,150,140,0,3,Boş,Boş,2,4,2,Yerden Isıtma,Hayır
+118,1300000,muradiye,149.3,286.1,Ocak,120,110,2,5,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+119,1485000,muradiye,146.2,286.1,Ocak,165,150,5,3,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+120,1075000,muradiye,145.6,285.9,Ocak,120,100,0,3,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+121,1400000,muradiye,61.2,352.4,Ocak,280,250,4,4,Mülk Sahibi Oturuyor,Eşya Durumu,2,5,4,Kombi Doğalgaz,Hayır
+122,1150000,muradiye,59.0,356.1,Ocak,105,100,0,4,Boş,Eşya Durumu,2,3,4,Kombi Doğalgaz,Hayır
+123,1375000,muradiye,61.0,350.5,Ocak,155,145,4,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,4,3,Kombi Doğalgaz,Hayır
+124,975000,muradiye,209.5,122.9,Ocak,100,90,0,4,Boş,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+125,1100000,muradiye,101.5,168.1,Ocak,100,90,2,4,Kiracı Oturuyor,Boş,1,3,4,Kombi Doğalgaz,Hayır
+126,1050000,muradiye,99.6,167.6,Ocak,105,95,0,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+127,810000,muradiye,101.5,168.1,Ocak,75,65,5,4,Kiracı Oturuyor,Boş,1,2,1,Kombi Doğalgaz,Hayır
+128,2125000,muradiye,329.5,315.1,Ocak,95,85,0,3,Boş,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+129,2125000,muradiye,265.0,251.0,Ocak,110,95,0,3,Boş,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+130,1700000,muradiye,798.3,437.3,Ocak,100,90,5,3,Boş,Boş,1,3,0,Kombi Doğalgaz,Evet
+131,1100000,muradiye,428.2,410.6,Ocak,110,100,5,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+132,950000,muradiye,109.0,264.4,Ocak,95,85,3,4,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+133,4100000,muradiye,552.1,529.5,Ocak,130,120,1,3,Mülk Sahibi Oturuyor,Eşya Durumu,2,4,3,Kombi Doğalgaz,Evet
+134,1175000,muradiye,377.0,355.6,Ocak,100,90,3,5,Kiracı Oturuyor,Boş,2,3,2,Kombi Doğalgaz,Hayır
+135,1550000,muradiye,169.0,378.9,Ocak,130,110,5,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+136,1300000,muradiye,166.4,285.6,Ocak,110,90,1,3,Kiracı Oturuyor,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+137,950000,muradiye,62.8,346.5,Ocak,95,85,4,3,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+138,1050000,muradiye,60.2,351.7,Ocak,135,125,4,5,Kiracı Oturuyor,Eşya Durumu,2,3,5,Kombi Doğalgaz,Hayır
+139,975000,muradiye,63.5,349.3,Ocak,105,90,0,4,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+140,3050000,muradiye,289.4,246.7,Ocak,140,125,0,3,Boş,Boş,1,4,2,Kombi Doğalgaz,Evet
+141,1245000,muradiye,72.9,335.6,Ocak,125,115,4,3,Kiracı Oturuyor,Eşya Durumu,1,4,3,Kombi Doğalgaz,Hayır
+142,4100000,muradiye,64.4,347.3,Ocak,140,122,0,3,Boş,Eşya Durumu,2,4,3,Kombi Doğalgaz,Evet
+143,1400000,muradiye,65.0,349.3,Ocak,100,90,4,4,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+144,1100000,muradiye,96.5,166.8,Ocak,110,100,2,5,Kiracı Oturuyor,Boş,2,3,2,Kombi Doğalgaz,Hayır
+145,1050000,muradiye,97.9,168.6,Ocak,95,85,2,5,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+146,1500000,muradiye,101.5,168.1,Ocak,140,130,4,4,Kiracı Oturuyor,Boş,1,4,4,Kombi Doğalgaz,Hayır
+147,1075000,muradiye,101.5,168.1,Ocak,110,105,0,3,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+148,1500000,muradiye,99.7,166.2,Ocak,160,145,5,5,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+149,1150000,muradiye,101.5,168.1,Ocak,200,190,4,4,Kiracı Oturuyor,Boş,2,5,4,Kombi Doğalgaz,Hayır
+150,1375000,muradiye,99.3,166.4,Ocak,140,128,4,4,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+151,1000000,muradiye,63.4,347.9,Ocak,120,110,4,4,Kiracı Oturuyor,Boş,1,4,1,Kombi Doğalgaz,Hayır
+152,1200000,muradiye,44.3,373.9,Ocak,105,95,2,4,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+153,1175000,muradiye,891.8,881.5,Ocak,110,100,5,5,Kiracı Oturuyor,Boş,2,3,2,Kombi Doğalgaz,Hayır
+154,4100000,muradiye,995.0,532.7,Ocak,140,130,11,3,Kiracı Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Hayır
+155,1650000,muradiye,93.7,237.5,Ocak,165,145,2,4,Mülk Sahibi Oturuyor,Eşya Durumu,3,5,4,Kombi Doğalgaz,Hayır
+156,1300000,muradiye,119.7,233.3,Ocak,200,180,4,5,Mülk Sahibi Oturuyor,Boş,1,6,5,Kombi Doğalgaz,Hayır
+157,1375000,muradiye,233.2,449.9,Ocak,145,130,4,5,Mülk Sahibi Oturuyor,Eşya Durumu,2,4,2,Kombi Doğalgaz,Hayır
+158,950000,muradiye,67.1,237.0,Ocak,70,60,3,4,Mülk Sahibi Oturuyor,Eşya Durumu,1,2,1,Kombi Doğalgaz,Hayır
+159,1600000,muradiye,87.8,280.0,Ocak,125,105,0,5,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+160,825000,muradiye,764.9,971.6,Ocak,80,70,0,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+161,875000,muradiye,340.1,566.2,Ocak,90,80,0,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+162,1100000,muradiye,123.3,328.9,Ocak,100,90,2,5,Kiracı Oturuyor,Eşya Durumu,1,3,5,Kombi Doğalgaz,Hayır
+163,1375000,muradiye,147.3,286.0,Ocak,150,140,4,4,Boş,Eşya Durumu,2,4,2,Kombi Doğalgaz,Hayır
+164,1375000,muradiye,148.3,426.4,Ocak,150,140,4,4,Boş,Eşya Durumu,2,4,2,Kombi Doğalgaz,Hayır
+165,1300000,muradiye,99.5,165.6,Ocak,130,125,4,5,Boş,Boş,2,4,3,Kombi Doğalgaz,Hayır
+166,2200000,muradiye,317.5,203.7,Ocak,75,60,0,2,Boş,Boş,1,2,0,Merkezi (Pay Ölçer),Hayır
+167,950000,muradiye,63.5,349.3,Ocak,100,90,4,4,Kiracı Oturuyor,Boş,1,4,1,Kombi Doğalgaz,Hayır
+168,1530000,muradiye,63.3,347.7,Ocak,220,180,4,5,Mülk Sahibi Oturuyor,Eşya Durumu,2,4,5,Kombi Doğalgaz,Hayır
+169,1300000,muradiye,192.7,65.5,Ocak,135,125,5,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+170,1700000,muradiye,170.4,163.0,Ocak,220,200,5,4,Boş,Boş,2,5,4,Kombi Doğalgaz,Hayır
+171,950000,muradiye,144.0,288.5,Ocak,90,85,5,3,Kiracı Oturuyor,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+172,1250000,muradiye,40.7,205.6,Ocak,145,130,4,3,Kiracı Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Hayır
+173,1600000,muradiye,268.9,50.8,Ocak,170,150,3,3,Kiracı Oturuyor,Eşya Durumu,1,6,-2,Kombi Doğalgaz,Hayır
+174,1850000,muradiye,146.2,285.6,Aralık,130,110,11,3,Kiracı Oturuyor,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+175,930000,muradiye,98.1,166.3,Ocak,95,90,4,3,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+176,1100000,muradiye,96.6,166.9,Ocak,100,90,4,4,Kiracı Oturuyor,Boş,1,3,3,Kombi Doğalgaz,Hayır
+177,1040000,muradiye,101.5,168.1,Aralık,110,90,5,6,Boş,Boş,1,3,2,Merkezi (Pay Ölçer),Hayır
+178,950000,muradiye,63.9,347.1,Ocak,100,90,4,4,Kiracı Oturuyor,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+179,2330000,muradiye,241.6,325.4,Aralık,110,100,5,4,Kiracı Oturuyor,Boş,1,3,0,Kombi Doğalgaz,Evet
+180,965000,muradiye,63.5,349.3,Ocak,105,95,1,3,Kiracı Oturuyor,Boş,1,3,1,Kombi Doğalgaz,Hayır
+181,835000,muradiye,63.5,349.3,Aralık,90,80,3,4,Boş,Eşyalı,1,3,1,Kombi Doğalgaz,Hayır
+182,950000,muradiye,69.4,349.4,Aralık,90,85,0,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+183,1500000,muradiye,113.4,170.2,Aralık,280,240,5,5,Boş,Boş,2,7,5,Kombi Doğalgaz,Hayır
+184,895000,muradiye,98.9,326.7,Aralık,105,95,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+185,950000,muradiye,91.6,563.1,Aralık,65,60,4,5,Kiracı Oturuyor,Eşyalı,1,2,5,Kombi Doğalgaz,Hayır
+186,1600000,muradiye,190.0,488.5,Aralık,100,90,5,3,Kiracı Oturuyor,Boş,1,3,2,Kombi Doğalgaz,Hayır
+187,1100000,muradiye,155.5,383.6,Aralık,95,85,2,5,Mülk Sahibi Oturuyor,Boş,1,3,5,Kombi Doğalgaz,Hayır
+188,1000000,muradiye,172.6,166.0,Aralık,110,100,3,4,Kiracı Oturuyor,Boş,1,3,2,Kombi Doğalgaz,Hayır
+189,1650000,muradiye,87.1,332.6,Aralık,220,190,3,4,Boş,Boş,3,6,4,Kombi Doğalgaz,Hayır
+190,960000,muradiye,86.8,336.1,Aralık,100,73,3,4,Kiracı Oturuyor,Eşyalı,1,3,4,Kombi Doğalgaz,Hayır
+191,1200000,muradiye,109.1,240.2,Aralık,125,115,4,3,Kiracı Oturuyor,Boş,1,4,2,Kombi Doğalgaz,Hayır
+192,1050000,muradiye,100.6,279.9,Aralık,125,120,4,5,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+193,1500000,muradiye,87.9,205.5,Aralık,125,115,0,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+194,890000,muradiye,1.1,481.5,Aralık,90,85,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+195,2200000,muradiye,527.0,403.2,Aralık,75,60,0,2,Boş,Eşya Durumu,1,2,0,Merkezi (Pay Ölçer),Evet
+196,895000,muradiye,62.9,348.0,Aralık,100,90,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Evet
+197,850000,muradiye,224.4,443.0,Ocak,70,60,4,5,Kiracı Oturuyor,Eşyalı,1,2,2,Kombi Doğalgaz,Hayır
+198,895000,muradiye,1.1,425.8,Aralık,100,90,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Evet
+199,1000000,muradiye,511.9,495.3,Aralık,100,90,5,4,Kiracı Oturuyor,Boş,1,3,4,Kombi Doğalgaz,Hayır
+200,1000000,muradiye,1.3,1.1,Aralık,90,85,4,4,Kiracı Oturuyor,Eşya Durumu,1,3,4,Kombi Doğalgaz,Hayır
+201,2200000,muradiye,156.1,608.1,Aralık,190,180,5,6,Kiracı Oturuyor,Boş,2,5,3,Kombi Doğalgaz,Hayır
+202,1250000,muradiye,135.9,441.5,Aralık,110,100,0,4,Boş,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+203,1600000,muradiye,213.4,422.6,Aralık,125,105,0,5,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+204,1600000,muradiye,1.7,1.2,Aralık,170,150,3,3,Kiracı Oturuyor,Eşya Durumu,1,6,-2,Kombi Doğalgaz,Hayır
+205,2750000,muradiye,271.0,177.2,Aralık,150,120,4,3,Boş,Boş,2,4,2,Kombi Doğalgaz,Hayır
+206,1549000,muradiye,594.6,547.1,Aralık,80,70,0,3,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+207,7500000,muradiye,450.6,195.8,Aralık,225,190,1,2,Boş,Boş,3,5,1,Kombi Doğalgaz,Hayır
+208,1250000,muradiye,221.2,401.2,Aralık,120,110,5,4,Mülk Sahibi Oturuyor,Boş,1,4,4,Kombi Doğalgaz,Hayır
+209,2140000,muradiye,741.7,240.8,Aralık,110,98,0,3,Boş,Boş,2,3,1,Kombi Doğalgaz,Hayır
+210,1325000,muradiye,148.5,288.5,Aralık,145,140,3,4,Boş,Boş,2,4,2,Kombi Doğalgaz,Hayır
+211,885000,muradiye,22.7,241.4,Aralık,90,80,0,4,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+212,940000,muradiye,101.5,168.1,Aralık,105,95,4,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+213,1250000,muradiye,148.6,304.2,Aralık,130,125,2,5,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+214,1850000,muradiye,665.8,509.8,Aralık,108,98,4,3,Kiracı Oturuyor,Boş,1,3,3,Kombi Doğalgaz,Hayır
+215,1050000,muradiye,156.8,226.8,Aralık,120,110,0,3,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+216,965000,muradiye,132.7,299.9,Aralık,100,90,3,4,Kiracı Oturuyor,Eşya Durumu,1,3,1,Kombi Fueloil,Hayır
+217,965000,muradiye,60.5,337.8,Aralık,110,100,2,5,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+218,980000,muradiye,66.0,344.2,Aralık,100,90,0,4,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+219,2750000,muradiye,744.9,631.2,Ocak,110,100,4,3,Boş,Boş,2,3,2,Kombi Doğalgaz,Hayır
+220,3440000,muradiye,233.7,138.7,Aralık,130,120,3,3,Boş,Eşyalı,2,4,1,Kombi Doğalgaz,Hayır
+221,3650000,muradiye,69.4,349.4,Ocak,150,140,0,3,Boş,Boş,2,4,3,Kombi Doğalgaz,Hayır
+222,2125000,muradiye,69.4,349.4,Ocak,135,125,1,3,Boş,Boş,2,4,1,Kombi Doğalgaz,Hayır
+223,2050000,muradiye,69.4,349.4,Ocak,110,100,1,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+224,1000000,muradiye,63.4,347.9,Aralık,120,110,4,4,Kiracı Oturuyor,Boş,1,4,1,Kombi Doğalgaz,Hayır
+225,1050000,muradiye,69.4,349.4,Aralık,90,80,0,4,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+226,1450000,muradiye,69.4,349.4,Aralık,145,135,4,4,Mülk Sahibi Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Hayır
+227,1650000,muradiye,63.5,349.3,Aralık,220,190,3,4,Boş,Boş,3,6,4,Kombi Doğalgaz,Hayır
+228,945000,muradiye,63.5,349.3,Aralık,85,80,4,3,Kiracı Oturuyor,Boş,1,3,3,Kombi Doğalgaz,Hayır
+229,700000,muradiye,63.5,349.3,Aralık,55,45,4,4,Kiracı Oturuyor,Eşyalı,1,2,1,Kombi Doğalgaz,Hayır
+230,1100000,muradiye,63.5,349.3,Aralık,95,85,2,5,Mülk Sahibi Oturuyor,Boş,1,3,5,Kombi Doğalgaz,Hayır
+231,1550000,muradiye,69.4,349.4,Aralık,250,215,0,4,Boş,Boş,2,5,4,Kombi Doğalgaz,Hayır
+232,1450000,muradiye,63.5,349.3,Ocak,100,90,0,5,Boş,Boş,1,3,4,Kombi Doğalgaz,Hayır
+233,925000,muradiye,63.5,349.3,Aralık,105,95,4,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+234,1300000,muradiye,63.5,349.3,Aralık,240,220,4,5,Mülk Sahibi Oturuyor,Boş,2,6,5,Kombi Doğalgaz,Hayır
+235,1350000,muradiye,63.5,349.3,Aralık,250,220,4,4,Boş,Boş,2,6,4,Kombi Doğalgaz,Hayır
+236,1370000,muradiye,245.5,235.3,Aralık,70,55,0,7,Boş,Boş,1,2,4,Kombi Doğalgaz,Hayır
+237,950000,muradiye,69.4,349.4,Aralık,90,85,0,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+238,795000,muradiye,63.5,349.3,Aralık,60,50,4,4,Kiracı Oturuyor,Eşyalı,1,2,1,Kombi Doğalgaz,Hayır
+239,1300000,muradiye,63.5,349.3,Ocak,140,130,0,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+240,1450000,muradiye,63.5,349.3,Ocak,120,110,0,3,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+241,975000,muradiye,69.4,349.4,Aralık,115,105,4,4,Kiracı Oturuyor,Boş,1,3,3,Kombi Doğalgaz,Hayır
+242,960000,muradiye,63.5,349.3,Aralık,100,90,2,4,Kiracı Oturuyor,Eşyalı,1,3,4,Kombi Doğalgaz,Hayır
+243,1650000,adnan menderes,128.0,296.9,Ocak,180,160,0,5,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+244,1300000,adnan menderes,858.4,1.1,Ocak,120,115,0,4,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+245,1800000,adnan menderes,114.8,482.6,Aralık,290,280,5,2,Mülk Sahibi Oturuyor,Eşya Durumu,2,6,0,Kombi Doğalgaz,Hayır
+246,1650000,adnan menderes,1.0,1.1,Ocak,140,130,0,5,Boş,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+247,1175000,adnan menderes,93.9,278.3,Ocak,90,80,0,3,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+248,1075000,adnan menderes,204.4,284.1,Ocak,90,85,0,3,Boş,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+249,1095000,adnan menderes,185.2,410.6,Ocak,130,120,4,3,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+250,1320000,adnan menderes,298.3,286.9,Ocak,120,110,0,5,Boş,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+251,1750000,adnan menderes,167.6,169.3,Ocak,135,125,11,7,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+252,965000,adnan menderes,119.4,274.8,Ocak,80,70,2,5,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+253,2450000,adnan menderes,129.9,554.0,Ocak,300,250,3,3,Mülk Sahibi Oturuyor,Boş,2,6,3,Kombi Doğalgaz,Hayır
+254,985000,adnan menderes,178.9,92.6,Ocak,95,85,2,5,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+255,1450000,adnan menderes,252.9,117.8,Ocak,180,160,0,5,Boş,Boş,2,4,5,Kombi Doğalgaz,Hayır
+256,894000,adnan menderes,63.2,211.6,Ocak,80,75,0,3,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+257,1700000,adnan menderes,206.8,104.9,Ocak,90,87,0,8,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+258,795000,adnan menderes,1.1,1.7,Ocak,90,80,2,3,Kiracı Oturuyor,Boş,1,3,2,Kombi Doğalgaz,Hayır
+259,1425000,adnan menderes,196.1,267.5,Ocak,130,120,0,5,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+260,905000,adnan menderes,160.7,183.8,Ocak,105,95,11,4,Boş,Boş,2,3,4,Kombi Doğalgaz,Hayır
+261,865000,adnan menderes,147.7,230.4,Ocak,75,70,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+262,905000,adnan menderes,757.2,977.6,Ocak,105,95,11,4,Boş,Boş,1,3,4,Kombi Doğalgaz,Hayır
+263,1200000,adnan menderes,80.4,91.2,Aralık,100,90,5,10,Boş,Eşya Durumu,1,3,4,Kombi Doğalgaz,Hayır
+264,1450000,adnan menderes,26.4,337.8,Aralık,130,120,0,4,Boş,Boş,2,4,3,Kombi Doğalgaz,Hayır
+265,1300000,adnan menderes,250.1,156.0,Aralık,91,81,5,7,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+266,1225000,adnan menderes,180.5,110.5,Ocak,120,110,0,5,Boş,Boş,1,4,-2,Kombi Doğalgaz,Hayır
+267,850000,adnan menderes,804.0,1.4,Aralık,100,90,4,5,Kiracı Oturuyor,Boş,1,3,1,Kombi Doğalgaz,Hayır
+268,950000,adnan menderes,169.1,201.5,Aralık,95,80,1,3,Kiracı Oturuyor,Boş,1,3,1,Kombi Doğalgaz,Hayır
+269,1865000,adnan menderes,155.1,179.6,Ocak,240,220,3,11,Boş,Eşya Durumu,2,5,0,Kombi Doğalgaz,Hayır
+270,865000,adnan menderes,1.1,1.7,Aralık,85,75,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+271,1750000,adnan menderes,237.5,195.2,Aralık,130,120,11,7,Boş,Boş,2,4,5,Kombi Doğalgaz,Hayır
+272,900000,adnan menderes,18.7,24.8,Ocak,85,80,4,5,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+273,950000,adnan menderes,178.6,308.9,Aralık,90,80,0,3,Boş,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+274,1050000,adnan menderes,636.0,555.8,Ocak,85,80,0,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+275,1480000,adnan menderes,247.4,163.9,Ocak,130,120,11,7,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+276,1550000,adnan menderes,159.2,176.7,Aralık,210,180,0,3,Boş,Eşya Durumu,2,7,-2,Kombi Doğalgaz,Hayır
+277,1180000,adnan menderes,78.5,46.4,Ocak,125,120,21,5,Boş,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+278,1300000,adnan menderes,94.2,72.6,Ocak,135,130,21,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+279,1350000,adnan menderes,133.4,180.2,Aralık,55,50,0,8,Boş,Eşya Durumu,1,2,3,Kombi Doğalgaz,Hayır
+280,1700000,adnan menderes,258.2,133.2,Aralık,90,85,0,8,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+281,865000,adnan menderes,918.5,1.5,Aralık,75,70,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+282,900000,adnan menderes,133.3,196.1,Aralık,85,80,3,5,Boş,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+283,1150000,adnan menderes,62.4,33.4,Aralık,105,95,21,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+284,1958000,adnan menderes,143.1,564.9,Aralık,300,250,3,3,Mülk Sahibi Oturuyor,Boş,2,6,3,Kombi Doğalgaz,Hayır
+285,1050000,adnan menderes,73.7,278.1,Aralık,105,90,5,6,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+286,1180000,adnan menderes,137.0,177.2,Aralık,125,120,16,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+287,900000,adnan menderes,207.3,278.6,Aralık,100,90,4,5,Kiracı Oturuyor,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+288,835000,adnan menderes,197.6,284.6,Aralık,95,85,5,5,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+289,1100000,adnan menderes,193.3,211.1,Aralık,100,90,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+290,950000,adnan menderes,118.4,105.6,Aralık,95,85,3,5,Kiracı Oturuyor,Boş,1,3,3,Kombi Doğalgaz,Hayır
+291,1300000,adnan menderes,1.0,990.3,Ocak,150,140,0,4,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+292,1570000,adnan menderes,168.6,125.4,Ocak,130,115,11,7,Kiracı Oturuyor,Boş,1,4,5,Kombi Doğalgaz,Hayır
+293,1300000,adnan menderes,252.4,163.7,Aralık,145,132,11,6,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+294,1050000,adnan menderes,272.1,183.1,Ocak,90,80,3,3,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+295,1300000,adnan menderes,55.4,36.4,Aralık,143,138,16,5,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+296,930000,adnan menderes,146.6,333.1,Ocak,85,70,3,5,Kiracı Oturuyor,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+297,1750000,adnan menderes,112.4,186.4,Aralık,140,125,16,7,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+298,1245000,adnan menderes,178.7,103.0,Ocak,150,145,16,6,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+299,1100000,adnan menderes,71.2,436.8,Aralık,135,120,3,5,Boş,Eşyalı,1,4,2,Kombi Doğalgaz,Hayır
+300,950000,adnan menderes,178.5,189.8,Aralık,100,90,0,3,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+301,1480000,adnan menderes,346.2,110.9,Aralık,135,110,5,7,Kiracı Oturuyor,Boş,1,4,5,Kombi Doğalgaz,Hayır
+302,1180000,adnan menderes,126.3,39.0,Aralık,125,120,21,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+303,865000,adnan menderes,116.7,123.2,Aralık,90,75,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+304,1640000,adnan menderes,141.7,111.0,Aralık,100,95,0,4,Boş,Boş,1,3,4,Kombi Doğalgaz,Hayır
+305,1180000,adnan menderes,118.6,35.5,Aralık,120,110,21,5,Boş,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+306,1180000,adnan menderes,182.9,266.5,Aralık,130,120,16,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+307,885000,adnan menderes,117.4,157.4,Aralık,100,90,0,3,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+308,1750000,adnan menderes,206.3,82.5,Aralık,130,125,11,7,Boş,Boş,2,4,5,Merkezi Kömür,Evet
+309,865000,adnan menderes,215.7,134.6,Aralık,72,70,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+310,935000,adnan menderes,221.7,137.0,Aralık,80,70,0,3,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+311,1750000,adnan menderes,138.7,249.4,Aralık,125,110,11,7,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Evet
+312,2350000,adnan menderes,421.7,202.7,Aralık,260,250,5,3,Kiracı Oturuyor,Boş,2,5,3,Kombi Doğalgaz,Hayır
+313,1450000,adnan menderes,143.4,155.4,Ocak,110,90,0,3,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+314,1320000,adnan menderes,811.2,921.0,Aralık,130,125,0,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+315,1100000,adnan menderes,144.6,175.8,Aralık,90,85,0,5,Boş,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+316,1250000,adnan menderes,275.5,7.0,Aralık,90,80,16,7,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+317,1495000,adnan menderes,397.4,186.4,Aralık,130,120,5,3,Kiracı Oturuyor,Boş,1,4,1,Kombi Doğalgaz,Hayır
+318,885000,adnan menderes,1.2,1.8,Ocak,80,70,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+319,894000,adnan menderes,72.4,33.7,Ocak,85,70,0,3,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+320,1150000,adnan menderes,191.5,198.4,Aralık,142,130,0,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+321,1175000,adnan menderes,108.4,180.3,Ocak,90,80,0,3,Boş,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+322,885000,adnan menderes,114.7,299.9,Aralık,95,90,0,3,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+323,885000,adnan menderes,157.9,219.2,Aralık,100,90,0,3,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+324,1150000,adnan menderes,143.7,437.8,Aralık,165,142,0,5,Boş,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+325,1570000,adnan menderes,238.3,66.8,Ocak,130,125,11,7,Kiracı Oturuyor,Boş,1,4,5,Kombi Doğalgaz,Hayır
+326,950000,adnan menderes,372.6,652.4,Aralık,110,90,2,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+327,1350000,adnan menderes,94.0,254.6,Aralık,125,115,16,5,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+328,1100000,adnan menderes,188.9,188.3,Aralık,135,125,0,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+329,800000,adnan menderes,284.0,382.9,Aralık,75,65,3,5,Boş,Boş,1,3,5,Kombi Doğalgaz,Hayır
+330,700000,adnan menderes,201.6,417.5,Aralık,65,60,0,5,Boş,Boş,1,2,1,Kombi Doğalgaz,Hayır
+331,980000,adnan menderes,1.0,997.1,Aralık,100,95,0,5,Boş,Boş,1,3,5,Kombi Doğalgaz,Hayır
+332,1100000,adnan menderes,129.7,410.9,Aralık,145,130,0,3,Boş,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+333,835000,adnan menderes,785.4,1.2,Ocak,95,85,11,3,Mülk Sahibi Oturuyor,Boş,1,3,1,Doğalgaz Sobalı,Hayır
+334,1020000,adnan menderes,1.5,1.5,Aralık,95,90,2,5,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+335,935000,adnan menderes,72.0,100.5,Aralık,105,95,0,3,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+336,800000,adnan menderes,1.1,1.0,Aralık,80,75,3,5,Kiracı Oturuyor,Boş,1,3,5,Kombi Doğalgaz,Hayır
+337,850000,adnan menderes,918.3,1.5,Aralık,80,75,11,3,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+338,1050000,adnan menderes,273.1,213.1,Aralık,110,100,4,5,Kiracı Oturuyor,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+339,1050000,adnan menderes,210.4,277.7,Aralık,110,95,4,5,Kiracı Oturuyor,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+340,1100000,adnan menderes,354.2,365.4,Aralık,140,130,0,5,Boş,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+341,1650000,adnan menderes,214.5,188.1,Aralık,140,130,21,5,Boş,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+342,1300000,adnan menderes,72.7,406.1,Aralık,130,125,2,5,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+343,700000,adnan menderes,89.7,347.1,Aralık,60,50,0,5,Boş,Eşya Durumu,1,2,1,Kombi Doğalgaz,Hayır
+344,975000,adnan menderes,232.5,193.8,Kasım,95,85,16,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+345,1490000,adnan menderes,219.1,194.3,Kasım,240,220,4,3,Mülk Sahibi Oturuyor,Boş,2,6,3,Kombi Doğalgaz,Hayır
+346,1300000,adnan menderes,38.3,313.9,Kasım,115,110,4,6,Boş,Boş,1,3,4,Kombi Doğalgaz,Hayır
+347,945000,adnan menderes,110.2,129.2,Kasım,95,85,3,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+348,1390000,adnan menderes,74.5,21.6,Kasım,230,220,21,6,Boş,Boş,1,3,6,Kombi Doğalgaz,Hayır
+349,715000,adnan menderes,131.2,183.9,Kasım,85,80,3,5,Mülk Sahibi Oturuyor,Boş,1,3,1,Kombi Doğalgaz,Hayır
+350,950000,adnan menderes,75.9,434.3,Kasım,105,95,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+351,1250000,adnan menderes,245.5,353.5,Aralık,120,110,0,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+352,795000,adnan menderes,280.7,268.1,Aralık,95,80,3,4,Kiracı Oturuyor,Eşya Durumu,1,3,4,Kombi Doğalgaz,Hayır
+353,1650000,adnan menderes,42.0,55.2,Aralık,140,135,16,5,Boş,Boş,2,4,2,Kombi Doğalgaz,Hayır
+354,1275000,adnan menderes,332.8,370.5,Kasım,130,115,2,5,Boş,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+355,1400000,adnan menderes,145.7,177.6,Ocak,170,110,3,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+356,975000,adnan menderes,144.8,181.3,Aralık,120,105,0,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+357,985000,adnan menderes,692.6,1.2,Ocak,100,95,11,3,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,0,Kombi Doğalgaz,Hayır
+358,1600000,adnan menderes,300.5,97.7,Aralık,125,120,11,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+359,1395000,adnan menderes,153.0,126.1,Aralık,220,150,21,6,Kiracı Oturuyor,Eşya Durumu,1,3,6,Kombi Doğalgaz,Hayır
+360,1500000,adnan menderes,65.7,124.2,Aralık,200,180,0,4,Boş,Boş,2,5,4,Kombi Doğalgaz,Hayır
+361,900000,adnan menderes,183.5,233.9,Kasım,80,70,3,4,Mülk Sahibi Oturuyor,Eşyalı,1,3,-2,Kombi Doğalgaz,Hayır
+362,800000,adnan menderes,173.7,255.3,Ekim,95,85,4,3,Mülk Sahibi Oturuyor,Boş,1,3,3,Kombi Doğalgaz,Hayır
+363,930000,adnan menderes,189.0,235.9,Aralık,90,85,2,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+364,940000,adnan menderes,121.1,308.9,Aralık,110,100,4,5,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+365,715000,adnan menderes,268.9,211.8,Aralık,75,65,4,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+366,895000,adnan menderes,420.8,503.4,Aralık,105,95,11,3,Kiracı Oturuyor,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+367,1225000,adnan menderes,172.2,309.3,Ekim,140,125,0,3,Boş,Boş,2,4,2,Kombi Doğalgaz,Hayır
+368,2150000,adnan menderes,248.7,244.4,Ekim,240,220,4,5,Mülk Sahibi Oturuyor,Boş,2,6,4,Kombi Doğalgaz,Hayır
+369,1300000,adnan menderes,95.7,428.9,Ocak,210,180,0,5,Boş,Eşya Durumu,2,5,-2,Kombi Doğalgaz,Hayır
+370,745000,adnan menderes,38.8,389.4,Ekim,100,90,5,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+371,1350000,adnan menderes,170.2,213.6,Kasım,190,175,4,5,Boş,Boş,2,6,5,Kombi Doğalgaz,Hayır
+372,1350000,adnan menderes,41.5,104.0,Ekim,120,115,11,6,Mülk Sahibi Oturuyor,Boş,1,4,3,Merkezi Doğalgaz,Evet
+373,1050000,adnan menderes,72.8,418.7,Aralık,125,120,0,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+374,1475000,adnan menderes,217.5,194.9,Aralık,100,90,0,9,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+375,1550000,adnan menderes,244.1,122.8,Ocak,140,138,0,4,Boş,Eşya Durumu,2,4,4,Kombi Doğalgaz,Hayır
+376,865000,adnan menderes,41.5,104.0,Aralık,85,75,5,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,-3,Merkezi Doğalgaz,Evet
+377,1240000,adnan menderes,798.2,1.0,Aralık,130,125,2,5,Boş,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+378,2200000,yeni mahalle,39.3,264.3,Ocak,130,115,0,6,Boş,Boş,2,4,3,Kombi Doğalgaz,Hayır
+379,1800000,yeni mahalle,83.4,209.4,Ocak,90,87,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+380,895000,yeni mahalle,95.9,227.5,Ocak,80,70,4,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+381,895000,yeni mahalle,116.8,172.3,Ocak,80,75,4,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+382,895000,yeni mahalle,53.3,232.3,Ocak,91,76,4,4,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+383,1325000,yeni mahalle,69.5,365.2,Ocak,115,105,0,5,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+384,1075000,yeni mahalle,88.8,273.4,Ocak,65,50,2,5,Boş,Boş,1,2,1,Kombi Doğalgaz,Hayır
+385,1569000,yeni mahalle,149.1,369.8,Aralık,151,111,21,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+386,2000000,yeni mahalle,55.4,295.3,Aralık,95,85,0,5,Boş,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+387,1745000,yeni mahalle,201.5,276.5,Aralık,140,130,5,5,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+388,1700000,yeni mahalle,105.0,286.7,Aralık,110,100,1,5,Boş,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+389,1275000,yeni mahalle,58.5,317.1,Ocak,95,90,3,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,4,Kombi Doğalgaz,Hayır
+390,1745000,yeni mahalle,197.6,342.2,Aralık,140,130,5,5,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+391,1850000,yeni mahalle,66.4,279.4,Aralık,200,150,16,5,Boş,Boş,2,5,-2,Isıtma Yok,Hayır
+392,1600000,yeni mahalle,199.5,365.7,Aralık,140,130,0,5,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+393,1175000,yeni mahalle,44.4,82.8,Aralık,90,80,5,5,Kiracı Oturuyor,Boş,1,3,4,Kombi Doğalgaz,Hayır
+394,1460000,yeni mahalle,45.9,240.1,Aralık,135,120,16,6,Boş,Eşya Durumu,1,4,6,Kombi Doğalgaz,Hayır
+395,1065000,yeni mahalle,149.6,369.0,Aralık,201,161,4,2,Kiracı Oturuyor,Boş,1,5,2,Kombi Doğalgaz,Hayır
+396,1295000,yeni mahalle,14.6,302.6,Aralık,140,125,11,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+397,1650000,yeni mahalle,127.9,154.6,Aralık,141,135,16,6,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+398,1725000,yeni mahalle,21.9,165.5,Ocak,140,135,21,6,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+399,1650000,yeni mahalle,157.0,225.3,Aralık,150,140,16,6,Kiracı Oturuyor,Boş,1,4,4,Kombi Doğalgaz,Hayır
+400,740000,yeni mahalle,147.4,368.1,Aralık,80,70,11,5,Kiracı Oturuyor,Boş,1,2,1,Kombi Doğalgaz,Hayır
+401,1800000,yeni mahalle,56.9,263.3,Aralık,250,230,11,5,Boş,Eşya Durumu,2,5,-2,Kombi Doğalgaz,Hayır
+402,1195000,yeni mahalle,101.6,189.4,Aralık,145,130,11,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+403,1495000,yeni mahalle,184.7,263.9,Aralık,110,105,4,5,Kiracı Oturuyor,Boş,1,3,2,Kombi Doğalgaz,Hayır
+404,2600000,yeni mahalle,173.1,255.2,Aralık,310,300,3,5,Kiracı Oturuyor,Boş,2,6,-2,Kombi Doğalgaz,Hayır
+405,1275000,yeni mahalle,53.6,338.3,Aralık,90,80,4,5,Boş,Boş,1,3,4,Kombi Doğalgaz,Hayır
+406,1300000,yeni mahalle,79.8,168.7,Aralık,115,105,0,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+407,1025000,yeni mahalle,30.8,387.9,Aralık,120,110,21,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+408,1275000,yeni mahalle,63.1,89.0,Aralık,120,110,16,5,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+409,1250000,yeni mahalle,191.5,261.0,Aralık,90,80,5,5,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+410,1750000,yeni mahalle,45.6,348.0,Aralık,250,240,5,4,Boş,Boş,2,6,4,Kombi Doğalgaz,Hayır
+411,1275000,yeni mahalle,23.0,283.4,Ocak,120,110,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+412,1295000,yeni mahalle,186.8,272.0,Aralık,130,120,11,5,Boş,Eşya Durumu,1,4,3,Kombi Doğalgaz,Hayır
+413,1570000,yeni mahalle,119.9,221.6,Aralık,150,140,16,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+414,1495000,yeni mahalle,38.5,272.3,Aralık,105,90,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+415,1065000,yeni mahalle,86.8,330.9,Aralık,170,150,3,3,Mülk Sahibi Oturuyor,Boş,2,5,3,Kombi Doğalgaz,Hayır
+416,1185000,yeni mahalle,82.5,317.6,Aralık,135,110,21,5,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+417,1540000,yeni mahalle,117.7,229.8,Aralık,140,125,16,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+418,1745000,yeni mahalle,94.0,216.8,Ocak,135,125,16,6,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+419,1195000,yeni mahalle,141.9,361.0,Aralık,130,120,21,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+420,1250000,yeni mahalle,105.2,216.3,Aralık,90,80,3,5,Kiracı Oturuyor,Eşya Durumu,1,3,5,Kombi Doğalgaz,Hayır
+421,1495000,yeni mahalle,145.6,332.2,Aralık,100,90,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+422,1325000,yeni mahalle,110.8,280.1,Ocak,115,105,0,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+423,920000,yeni mahalle,174.2,362.5,Kasım,105,90,5,3,Mülk Sahibi Oturuyor,Boş,1,3,1,Kombi Doğalgaz,Hayır
+424,1480000,yeni mahalle,78.1,151.8,Kasım,100,90,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+425,1175000,yeni mahalle,57.4,294.6,Kasım,91,81,3,5,Kiracı Oturuyor,Boş,1,3,4,Kombi Doğalgaz,Hayır
+426,1325000,yeni mahalle,122.1,321.3,Aralık,120,115,0,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+427,1275000,yeni mahalle,184.3,287.0,Aralık,85,70,4,5,Kiracı Oturuyor,Eşya Durumu,1,3,4,Kombi Doğalgaz,Hayır
+428,854000,yeni mahalle,165.8,336.1,Kasım,135,120,16,3,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+429,1475000,yeni mahalle,51.6,226.4,Kasım,150,135,16,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+430,1545000,yeni mahalle,150.1,280.7,Aralık,150,140,16,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+431,1275000,yeni mahalle,86.7,211.7,Aralık,90,80,4,5,Kiracı Oturuyor,Boş,1,3,4,Kombi Doğalgaz,Hayır
+432,1570000,yeni mahalle,92.3,294.8,Ocak,145,140,16,5,Boş,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+433,1735000,yeni mahalle,108.5,171.0,Ocak,140,135,5,5,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+434,1750000,yeni mahalle,187.4,260.0,Aralık,120,105,0,5,Boş,Eşya Durumu,1,4,3,Kombi Doğalgaz,Hayır
+435,1745000,yeni mahalle,206.6,281.1,Aralık,120,110,4,5,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+436,1325000,yeni mahalle,142.1,240.0,Aralık,115,100,0,5,Boş,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+437,1570000,yeni mahalle,175.1,255.8,Ocak,130,120,21,5,Boş,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+438,1735000,yeni mahalle,118.4,319.0,Ocak,135,130,5,5,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+439,1570000,yeni mahalle,116.0,324.7,Aralık,142,137,11,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+440,1540000,yeni mahalle,89.1,306.3,Aralık,140,130,21,5,Boş,Eşya Durumu,1,4,2,Kombi Doğalgaz,Hayır
+441,1195000,yeni mahalle,85.8,273.6,Kasım,135,125,21,5,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+442,940000,yeni mahalle,68.8,242.8,Kasım,105,100,5,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+443,780000,yeni mahalle,70.1,377.8,Kasım,78,75,16,2,Kiracı Oturuyor,Boş,1,3,1,Sobalı,Hayır
+444,1400000,yeni mahalle,63.0,142.1,Aralık,130,120,16,5,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+445,1000000,yeni mahalle,61.4,240.5,Aralık,65,55,3,5,Kiracı Oturuyor,Boş,1,2,1,Kombi Doğalgaz,Hayır
+446,2050000,yeni mahalle,139.9,262.9,Aralık,300,250,5,5,Mülk Sahibi Oturuyor,Boş,2,6,-2,Kombi Doğalgaz,Hayır
+447,1325000,yeni mahalle,78.9,310.3,Aralık,118,115,0,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+448,940000,yeni mahalle,62.9,216.3,Ekim,106,101,5,3,Kiracı Oturuyor,Boş,1,3,1,Kombi Doğalgaz,Hayır
+449,1380000,yeni mahalle,119.1,100.7,Ekim,135,125,5,5,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+450,1850000,yeni mahalle,58.3,142.0,Aralık,230,220,5,5,Mülk Sahibi Oturuyor,Eşya Durumu,2,5,-2,Kombi Doğalgaz,Hayır
+451,1850000,yeni mahalle,177.7,267.3,Aralık,270,250,11,5,Mülk Sahibi Oturuyor,Boş,2,5,-2,Kombi Doğalgaz,Hayır
+452,900000,yeni mahalle,121.9,270.3,Aralık,95,85,5,3,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+453,1580000,yeni mahalle,11.3,201.5,Aralık,135,125,11,6,Mülk Sahibi Oturuyor,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+454,1125000,yeni mahalle,46.5,238.6,Kasım,85,75,1,5,Mülk Sahibi Oturuyor,Boş,1,3,1,Kombi Doğalgaz,Hayır
+455,1195000,yeni mahalle,53.2,246.5,Kasım,140,130,21,5,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+456,1000000,yeni mahalle,83.8,317.9,Aralık,108,107,21,1,Kiracı Oturuyor,Eşya Durumu,1,4,1,Isıtma Yok,Hayır
+457,1175000,yeni mahalle,143.5,217.4,Aralık,90,85,0,3,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+458,2050000,yeni mahalle,8.1,92.1,Aralık,300,299,11,5,Boş,Eşya Durumu,2,6,5,Kombi Doğalgaz,Hayır
+459,1545000,yeni mahalle,42.5,261.5,Aralık,130,125,0,5,Boş,Boş,2,4,3,Kombi Doğalgaz,Hayır
+460,1350000,yeni mahalle,66.4,200.8,Aralık,110,100,0,5,Boş,Eşyalı,2,3,5,Kombi Doğalgaz,Hayır
+461,1175000,yeni mahalle,59.7,111.1,Aralık,95,85,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+462,1100000,yeni mahalle,102.9,204.2,Aralık,90,85,2,5,Boş,Eşya Durumu,1,3,1,Kombi Doğalgaz,Hayır
+463,1150000,yeni mahalle,149.1,229.2,Aralık,100,95,3,5,Mülk Sahibi Oturuyor,Boş,1,3,5,Kombi Doğalgaz,Hayır
+464,1495000,yeni mahalle,164.5,249.8,Kasım,98,95,0,6,Boş,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+465,870000,yeni mahalle,194.8,357.9,Kasım,135,13,5,5,Boş,Eşya Durumu,1,4,1,Kombi Doğalgaz,Hayır
+466,1100000,yeni mahalle,56.0,253.1,Aralık,120,105,5,4,Boş,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+467,920000,yeni mahalle,23.9,316.0,Kasım,85,80,5,3,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+468,1300000,yeni mahalle,69.8,133.7,Ocak,115,105,11,7,Kiracı Oturuyor,Eşya Durumu,1,3,4,Kombi Doğalgaz,Hayır
+469,1375000,laleli,100.9,224.1,Ocak,140,130,16,5,Kiracı Oturuyor,Boş,1,4,1,Kombi Doğalgaz,Hayır
+470,2650000,laleli,72.2,162.3,Ocak,160,135,5,11,Kiracı Oturuyor,Eşya Durumu,2,4,10,Kombi Doğalgaz,Evet
+471,1925000,laleli,71.8,52.0,Ocak,105,95,5,11,Kiracı Oturuyor,Boş,1,3,7,Kombi Doğalgaz,Hayır
+472,2750000,laleli,20.3,74.0,Ocak,150,140,11,11,Kiracı Oturuyor,Boş,1,4,10,Kombi Doğalgaz,Evet
+473,1200000,laleli,12.6,103.9,Ocak,120,110,21,5,Boş,Boş,1,4,5,Isıtma Yok,Hayır
+474,1650000,laleli,40.3,23.0,Aralık,120,110,21,3,Mülk Sahibi Oturuyor,Boş,1,4,1,Kombi Doğalgaz,Hayır
+475,1750000,laleli,132.1,87.0,Aralık,130,125,11,4,Kiracı Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Hayır
+476,2350000,laleli,66.8,165.4,Aralık,160,145,5,11,Boş,Boş,2,4,11,Kombi Doğalgaz,Hayır
+477,835000,laleli,51.9,251.7,Aralık,90,80,3,4,Mülk Sahibi Oturuyor,Boş,1,3,-1,Kombi Doğalgaz,Hayır
+478,4350000,laleli,125.4,127.8,Aralık,340,300,11,3,Boş,Eşya Durumu,2,6,3,Kombi Doğalgaz,Hayır
+479,1650000,laleli,58.4,138.0,Aralık,120,115,16,3,Kiracı Oturuyor,Boş,1,4,2,Kombi Doğalgaz,Hayır
+480,2400000,laleli,160.3,121.2,Aralık,150,145,3,5,Kiracı Oturuyor,Boş,1,4,5,Kombi Doğalgaz,Hayır
+481,2500000,laleli,59.1,232.2,Aralık,165,149,11,3,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+482,1580000,laleli,194.8,156.3,Aralık,250,235,4,3,Mülk Sahibi Oturuyor,Eşya Durumu,2,5,3,Kombi Doğalgaz,Hayır
+483,2160000,laleli,68.6,165.2,Ocak,170,150,5,11,Boş,Boş,2,4,1,Kombi Doğalgaz,Hayır
+484,1990000,laleli,108.4,175.6,Aralık,180,160,11,5,Mülk Sahibi Oturuyor,Boş,2,5,5,Kombi Doğalgaz,Hayır
+485,1580000,laleli,113.4,286.2,Aralık,225,210,3,3,Boş,Boş,2,5,3,Kombi Doğalgaz,Hayır
+486,835000,laleli,54.0,227.3,Aralık,90,80,1,3,Boş,Boş,1,3,0,Kombi Doğalgaz,Hayır
+487,2550000,laleli,44.9,48.6,Aralık,150,145,5,11,Kiracı Oturuyor,Boş,1,4,10,Kombi Doğalgaz,Hayır
+488,1580000,laleli,70.8,212.1,Aralık,220,200,4,3,Boş,Eşya Durumu,2,5,3,Kombi Doğalgaz,Hayır
+489,1580000,laleli,137.8,79.0,Aralık,230,225,2,3,Kiracı Oturuyor,Boş,2,5,3,Kombi Doğalgaz,Hayır
+490,1244000,laleli,70.1,256.1,Aralık,140,125,21,5,Kiracı Oturuyor,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+491,1750000,laleli,34.3,126.1,Aralık,125,120,11,3,Kiracı Oturuyor,Boş,1,4,3,Kombi Doğalgaz,Hayır
+492,1899000,laleli,243.1,285.1,Kasım,221,201,5,4,Kiracı Oturuyor,Boş,2,6,4,Kombi Doğalgaz,Hayır
+493,1725000,yeni mahalle,21.9,165.5,Ocak,140,135,21,6,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+494,1650000,yeni mahalle,157.0,225.3,Aralık,150,140,16,6,Kiracı Oturuyor,Boş,1,4,4,Kombi Doğalgaz,Hayır
+495,740000,yeni mahalle,147.4,368.1,Aralık,80,70,11,5,Kiracı Oturuyor,Boş,1,2,1,Kombi Doğalgaz,Hayır
+496,1800000,yeni mahalle,56.9,263.3,Aralık,250,230,11,5,Boş,Eşya Durumu,2,5,-2,Kombi Doğalgaz,Hayır
+497,1195000,yeni mahalle,101.6,189.4,Aralık,145,130,11,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+498,1495000,yeni mahalle,184.7,263.9,Aralık,110,105,4,5,Kiracı Oturuyor,Boş,1,3,2,Kombi Doğalgaz,Hayır
+499,2600000,yeni mahalle,173.1,255.2,Aralık,310,300,3,5,Kiracı Oturuyor,Boş,2,6,-2,Kombi Doğalgaz,Hayır
+500,1275000,yeni mahalle,53.6,338.3,Aralık,90,80,4,5,Boş,Boş,1,3,4,Kombi Doğalgaz,Hayır
+501,1300000,yeni mahalle,79.8,168.7,Aralık,115,105,0,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+502,1025000,yeni mahalle,30.8,387.9,Aralık,120,110,21,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+503,1275000,yeni mahalle,63.1,89.0,Aralık,120,110,16,5,Boş,Boş,1,4,3,Kombi Doğalgaz,Hayır
+504,1250000,yeni mahalle,191.5,261.0,Aralık,90,80,5,5,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+505,1750000,yeni mahalle,45.6,348.0,Aralık,250,240,5,4,Boş,Boş,2,6,4,Kombi Doğalgaz,Hayır
+506,1275000,yeni mahalle,23.0,283.4,Ocak,120,110,0,3,Boş,Boş,1,3,3,Kombi Doğalgaz,Hayır
+507,1295000,yeni mahalle,186.8,272.0,Aralık,130,120,11,5,Boş,Eşya Durumu,1,4,3,Kombi Doğalgaz,Hayır
+508,1570000,yeni mahalle,119.9,221.6,Aralık,150,140,16,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+509,1495000,yeni mahalle,38.5,272.3,Aralık,105,90,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+510,1065000,yeni mahalle,86.8,330.9,Aralık,170,150,3,3,Mülk Sahibi Oturuyor,Boş,2,5,3,Kombi Doğalgaz,Hayır
+511,1185000,yeni mahalle,82.5,317.6,Aralık,135,110,21,5,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
+512,1540000,yeni mahalle,117.7,229.8,Aralık,140,125,16,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+513,1745000,yeni mahalle,94.0,216.8,Ocak,135,125,16,6,Boş,Eşya Durumu,1,4,5,Kombi Doğalgaz,Hayır
+514,1195000,yeni mahalle,141.9,361.0,Aralık,130,120,21,5,Boş,Eşya Durumu,1,4,4,Kombi Doğalgaz,Hayır
+515,1250000,yeni mahalle,105.2,216.3,Aralık,90,80,3,5,Kiracı Oturuyor,Eşya Durumu,1,3,5,Kombi Doğalgaz,Hayır
+516,1495000,yeni mahalle,145.6,332.2,Aralık,100,90,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+517,1325000,yeni mahalle,110.8,280.1,Ocak,115,105,0,5,Boş,Boş,1,4,1,Kombi Doğalgaz,Hayır
+518,920000,yeni mahalle,174.2,362.5,Kasım,105,90,5,3,Mülk Sahibi Oturuyor,Boş,1,3,1,Kombi Doğalgaz,Hayır
+519,1480000,yeni mahalle,78.1,151.8,Kasım,100,90,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+520,2200000,yeni mahalle,39.3,264.3,Ocak,130,115,0,6,Boş,Boş,2,4,3,Kombi Doğalgaz,Hayır
+521,1800000,yeni mahalle,83.4,209.4,Ocak,90,87,0,5,Boş,Boş,1,3,2,Kombi Doğalgaz,Hayır
+522,895000,yeni mahalle,95.9,227.5,Ocak,80,70,4,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+523,895000,yeni mahalle,116.8,172.3,Ocak,80,75,4,3,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+524,895000,yeni mahalle,53.3,232.3,Ocak,91,76,4,4,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+525,1325000,yeni mahalle,69.5,365.2,Ocak,115,105,0,5,Boş,Boş,1,3,1,Kombi Doğalgaz,Hayır
+526,1075000,yeni mahalle,88.8,273.4,Ocak,65,50,2,5,Boş,Boş,1,2,1,Kombi Doğalgaz,Hayır
+527,1569000,yeni mahalle,149.1,369.8,Aralık,151,111,21,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+528,2000000,yeni mahalle,55.4,295.3,Aralık,95,85,0,5,Boş,Eşya Durumu,1,3,3,Kombi Doğalgaz,Hayır
+529,1745000,yeni mahalle,201.5,276.5,Aralık,140,130,5,5,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+530,1700000,yeni mahalle,105.0,286.7,Aralık,110,100,1,5,Boş,Eşya Durumu,1,3,2,Kombi Doğalgaz,Hayır
+531,1275000,yeni mahalle,58.5,317.1,Ocak,95,90,3,5,Mülk Sahibi Oturuyor,Eşya Durumu,1,3,4,Kombi Doğalgaz,Hayır
+532,1745000,yeni mahalle,197.6,342.2,Aralık,140,130,5,5,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+533,1850000,yeni mahalle,66.4,279.4,Aralık,200,150,16,5,Boş,Boş,2,5,-2,Isıtma Yok,Hayır
+534,1600000,yeni mahalle,199.5,365.7,Aralık,140,130,0,5,Boş,Boş,1,4,5,Kombi Doğalgaz,Hayır
+535,1175000,yeni mahalle,44.4,82.8,Aralık,90,80,5,5,Kiracı Oturuyor,Boş,1,3,4,Kombi Doğalgaz,Hayır
+536,1460000,yeni mahalle,45.9,240.1,Aralık,135,120,16,6,Boş,Eşya Durumu,1,4,6,Kombi Doğalgaz,Hayır
+537,1065000,yeni mahalle,149.6,369.0,Aralık,201,161,4,2,Kiracı Oturuyor,Boş,1,5,2,Kombi Doğalgaz,Hayır
+538,1295000,yeni mahalle,14.6,302.6,Aralık,140,125,11,5,Boş,Boş,1,4,2,Kombi Doğalgaz,Hayır
+539,1650000,yeni mahalle,127.9,154.6,Aralık,141,135,16,6,Boş,Boş,1,4,4,Kombi Doğalgaz,Hayır
